@@ -16,5 +16,5 @@ jobs:
 
       - uses: Joydeep2005Banik/readme-stats-cards@v1
         with:
-          username: Joydeep2005Banik
+          username: Tirtha28
           token: ${{ secrets.GITHUB_TOKEN }}
