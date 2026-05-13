@@ -18,3 +18,4 @@ jobs:
         with:
           username: Tirtha28
           token: ${{ secrets.GITHUB_TOKEN }}
+          theme: tokyonight
